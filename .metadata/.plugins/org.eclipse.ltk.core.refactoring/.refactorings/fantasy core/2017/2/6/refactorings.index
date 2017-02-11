@@ -1,2 +1,7 @@
 1486823119839	Delete element
 1486823268629	Rename package 'com.example.examplemod'
+1486826329286	Rename type 'items'
+1486827228734	Move compilation unit
+1486827480612	Rename package 'assets'
+1486830835211	Rename package 'assets.FantasyMod.models.item'
+1486831313313	Rename package 'assets.fantasyod.models.item'
