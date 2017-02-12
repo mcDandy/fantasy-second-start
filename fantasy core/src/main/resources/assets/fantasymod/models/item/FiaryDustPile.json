@@ -1,7 +1,7 @@
 {
     "parent":"builtin/generated",
     "textures": {
-        "layer0":"fantasymod:items/FiaryDust"
+        "layer0":"fantasymod:items/FiaryDustPile"
     },
     "display": {
         "thirdperson": {
