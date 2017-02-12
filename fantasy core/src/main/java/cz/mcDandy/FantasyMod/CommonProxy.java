@@ -1,6 +1,6 @@
-package cz.mcDandy.fCore;
+package cz.mcDandy.FantasyMod;
 
-import cz.mcDandy.fCore.items.Items;
+import cz.mcDandy.FantasyMod.items.Items;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;

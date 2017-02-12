@@ -1,4 +1,4 @@
-package cz.mcDandy.fCore.items;
+package cz.mcDandy.FantasyMod.items;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
