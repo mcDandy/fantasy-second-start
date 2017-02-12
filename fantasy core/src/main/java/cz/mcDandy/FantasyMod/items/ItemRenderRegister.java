@@ -10,6 +10,7 @@ public class ItemRenderRegister {
 
 	public static void registerItemRenderer() {
 	    reg(Items.FiaryDust);
+	    reg(Items.FiaryDustPile);
 	}
 
 	public static void reg(Item item) {

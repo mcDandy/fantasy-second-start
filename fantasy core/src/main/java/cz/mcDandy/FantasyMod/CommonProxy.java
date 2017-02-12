@@ -9,7 +9,7 @@ public class CommonProxy {
 
     public void preInit(FMLPreInitializationEvent e) {
     	Items.createItems();
-    	System.out.println("Items registred");
+    	
     }
 
     public void init(FMLInitializationEvent e) {
