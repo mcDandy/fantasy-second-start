@@ -4,8 +4,6 @@ import cz.mcDandy.FantasyMod.items.ItemRenderRegister;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-
-
 public class ClientProxy extends CommonProxy {
 
     @Override
@@ -18,6 +16,7 @@ public class ClientProxy extends CommonProxy {
         super.init(e);
         
             ItemRenderRegister.registerItemRenderer();
+
     }
 
     @Override
